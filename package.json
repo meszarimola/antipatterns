@@ -1,0 +1,21 @@
+{
+  "name": "antipatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meszarimola/antipatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meszarimola/antipatterns/issues"
+  },
+  "homepage": "https://github.com/meszarimola/antipatterns#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
+  }
+}
